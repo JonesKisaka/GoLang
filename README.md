@@ -1,2 +1,4 @@
 # GoLang
-Just Tinkering with Go
+Building a REST Server using Golang.
+Quite exciting.
+
